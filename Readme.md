@@ -11,18 +11,18 @@ REQUIREMENTS:
 Flask
 
 SETUP:
-Install Flask
-In /common/tc_session.py enter your Teamcenter Server adress
-In /modules/extract_item_properties enter your Teamcenter credentials
-run app.py
+-Install Flask
+-In /common/tc_session.py enter your Teamcenter Server adress
+-In /modules/extract_item_properties enter your Teamcenter credentials
+-run app.py
 
 USAGE:
 REST:
-REST request example is located in powershell_rest_request_example.ps1
+-REST request example is located in powershell_rest_request_example.ps1
 
 BROWSER:
-Connect to 127.0.0.1:5000 -> Extract Item Information
-Enter ItemID & RevisionID -> Submit
+-Connect to 127.0.0.1:5000 -> Extract Item Information
+-Enter ItemID & RevisionID -> Submit
 
 Known Issues:
 -Very crude ErrorHandling
