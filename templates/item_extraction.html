@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<header><h1>Extract Item Information</h1></header>
+<section class="extract-item-form">
+    <form method="POST">
+        <div class="mb-3">
+            <label for="item_id">Item_ID</label>
+            <input type="text" class="form-control" id="item_id" name="item_id" placeholder="Example: 048417" />
+        </div>
+        <div class="mb-3">
+            <label for="rev_id">Revision ID</label>
+            <input type="text" class="form-control" id="rev_id" name="rev_id" placeholder="Example: 00" />
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</section>
+
+<h2>Item Info</h2>
+<section>
+    <div class="list-group">
+        {% for key, value in item_dict.items() %}
+            <div class="list-group-item">
+                <p style="font-weight: bold;">{{key}}</p>
+                <p>
+                    <p>{{value}}</p>
+                </p>
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
+{% endblock %}
