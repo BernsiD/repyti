@@ -33,4 +33,4 @@ Since this is a non-profit project, updates will take time because i have a full
 Help and contribution would be appreciated.
 
 Have Fun
-Bernhard
+BernsiD
