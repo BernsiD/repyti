@@ -1,9 +1,11 @@
 RePyTI - RESTful Python Teamcenter Interface
 
 This is the attempt to create an OpenSource RESTful Teamcenter Interface.
+Communication to Teamcenter is done via Teamcenter Services (SOAP)
 It works with Flask at the moment.
-At this stage of develepmont there is only one module available to allow extraction of metadata and classification properties
-of an ItemRevision and CustomItemRevisions by inputting ItemID and RevisionID.
+At this stage of development there is only one module available to allow extraction of metadata and classification properties
+of an ItemRevision or CustomItemRevision by inputting ItemID and RevisionID, since it is the most basic step to connect to get your ItemRevision Metadata in for Example ERP Systems or other Enterprise Systems. 
+
 
 REQUIREMENTS:
 Flask
