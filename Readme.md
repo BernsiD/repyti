@@ -30,7 +30,7 @@ Known Issues:
 
 
 Since this is a non-profit project, updates will take time because i have a full-time job.
-Help and contribution would be appreciated.
+Help and contribution would be appreciated. For contact mail to bernsiaut@gmail.com
 
 Have Fun
 BernsiD
