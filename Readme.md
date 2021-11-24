@@ -1,5 +1,5 @@
 # RePyTI 
-================================
+
 RESTful Python Teamcenter Interface
 
 This is the attempt to create an OpenSource RESTful Teamcenter Interface.
