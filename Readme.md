@@ -10,26 +10,26 @@ of an ItemRevision or CustomItemRevision by inputting ItemID and RevisionID, sin
 
 
 ### REQUIREMENTS:
-Flask
+- Flask
 
 ### SETUP:
 - Install Flask
-- In `/common/tc_session.py` enter your Teamcenter Server adress
-- In `/modules/extract_item_properties` enter your Teamcenter credentials
+- rename `secret.py.example` to `secret.py`
+- fill it with your Teamcenter credentials
 - run `app.py`
 
 ### USAGE:
 
-**REST:**
-- REST request example is located in powershell_rest_request_example.ps1
+- **REST:**
+    - REST request example is located in powershell_rest_request_example.ps1
 
-**BROWSER:**
-- Connect to `127.0.0.1:5000` -> Extract Item Information
-- Enter ItemID & RevisionID -> Submit
+- **BROWSER:**
+    - Connect to `127.0.0.1:5000` -> Extract Item Information
+    - Enter ItemID & RevisionID -> Submit
 
-**Known Issues:**
-- Very crude ErrorHandling
-- No cloaking of Username / password at the moment
+- **Known Issues:**
+    - Very crude ErrorHandling
+    - No cloaking of Username / password at the moment
 
 
 

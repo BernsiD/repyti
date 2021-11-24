@@ -1,9 +1,11 @@
 import sys
 import requests
 
+from secret import Secret
+
 
 class TC_Session():
-    def __init__(self, username, password, serveradress="http://myserver01:8480", sessiontoken=None): #Enter your serveradress here
+    def __init__(self, username, password, serveradress=Secret.TC_HOST, sessiontoken=None): #Enter your serveradress here
         self.username = username
         self.password = password
         self.serveradress = serveradress

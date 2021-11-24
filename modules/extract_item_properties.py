@@ -1,7 +1,9 @@
-from common.tc_session import TC_Session
 import sys
 import requests
 import xml.etree.ElementTree as ET
+
+from common.tc_session import TC_Session
+from secret import Secret
 
 # set the policy to male ps_extract work
 
@@ -214,7 +216,7 @@ def getClassificationObjectInfo(session_token, classification_uid, serveradress)
 
 
 def extract_item_properties(item_id, rev_id):
-    tc_session = TC_Session("dcproxy", "dcproxy")  #Enter username password here
+    tc_session = TC_Session(Secret.TC_LOGIN, Secret.TC_PASSWORD)  #Enter username password here
     tc_session.login()
     set_policy(tc_session.session_token, tc_session.serveradress)
     revision_uid = get_item_from_id(
