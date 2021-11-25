@@ -3,6 +3,9 @@
 {% block content %}
 
 <header><h1>Modules: </h1></header>
-<a href={{ url_for('extract.new_item') }}> Extract Item Information</a>
+<ul>
+    <li><a href={{ url_for('extract.new_item') }}> Extract Item Information</a></li>
+    <li><a href={{ url_for('extract_eff.new_item') }}> Extract Revision Effectivity</a></li>
+</ul>   
 
 {% endblock %}
