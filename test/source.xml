@@ -1,0 +1,1783 @@
+<x:Envelope xmlns:x="http://schemas.xmlsoap.org/soap/envelope/" xmlns:str="http://teamcenter.com/Schemas/Cad/2007-01/StructureManagement"><x:Header /><x:Body>
+<ns1:GetRevisionRulesResponse xmlns:ns1="http://teamcenter.com/Schemas/Cad/2007-01/StructureManagement" xmlns:ns0="http://teamcenter.com/Schemas/Soa/2006-03/Base">
+<ns1:output>
+<ns1:revRule uid="S$vFjFb3ojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QIYlLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QIelLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="yprFpTMWojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="ryhBdqRCojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="BqQ5$IguojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="HSnBGhFeojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QEclLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="RwjBM8ZqojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="wCpFGt1lojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QQWlLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QQQlLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QUelLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QYdlLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QYUlLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="1RkFBzYPojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QUVlLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QQclLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QMXlLTYSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="R2kBE8bjojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="e_X9e_CqojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="uCW9e_CqojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="V8gFiRo_ojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="uKR9e_CqojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="uGV9e_CqojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="CRW9YmBqojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="1"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="y4hFzNQgojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="GnnF0AntojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="Y$kFofeNojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="1"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="x6mBrCb8ojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="SsuFXGqQojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="vahBlQ71ojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="1_tBMXzaojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="1"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="CEgBDz38ojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="QIsBsM_CojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="i2qFUq7DojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="EmiFpRvRojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="SmnF5eEYojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="1"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="Rhc5TL68ojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="ickBJBM6ojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="E5e9YeyKojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="SrjB6oIiojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="h7b9IGQSojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="CgS9VC5QojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="zElBJ$34ojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus>
+<ns1:overrideFolders>
+<ns1:ruleEntry uid="zEvBJ$34ojgGRC" className="CFMOverrideEntry" type="CFMOverrideEntry"></ns1:ruleEntry>
+<ns1:folder objectID="" cParamID="" uid="AAAAAAAAAAAAAA" className="unknownClass" type="unknownType"></ns1:folder></ns1:overrideFolders></ns1:output>
+<ns1:output>
+<ns1:revRule uid="LguFx0fjojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="1"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="1"></ns1:hasValueStatus></ns1:output>
+<ns1:output>
+<ns1:revRule uid="w5nBikMYojgGRC" className="RevisionRule" type="RevisionRule"></ns1:revRule>
+<ns1:hasValueStatus key="rule_date" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_end_item_rev" value="0"></ns1:hasValueStatus>
+<ns1:hasValueStatus key="rule_unit" value="0"></ns1:hasValueStatus></ns1:output>
+<ns0:ServiceData>
+<ns0:plainObjs uid="S$vFjFb3ojgGRC" />
+<ns0:plainObjs uid="QIYlLTYSojgGRC" />
+<ns0:plainObjs uid="QIelLTYSojgGRC" />
+<ns0:plainObjs uid="yprFpTMWojgGRC" />
+<ns0:plainObjs uid="ryhBdqRCojgGRC" />
+<ns0:plainObjs uid="wbQt2KzwojgGRC" />
+<ns0:plainObjs uid="BqQ5$IguojgGRC" />
+<ns0:plainObjs uid="HSnBGhFeojgGRC" />
+<ns0:plainObjs uid="QEclLTYSojgGRC" />
+<ns0:plainObjs uid="RwjBM8ZqojgGRC" />
+<ns0:plainObjs uid="wCpFGt1lojgGRC" />
+<ns0:plainObjs uid="QQWlLTYSojgGRC" />
+<ns0:plainObjs uid="QQQlLTYSojgGRC" />
+<ns0:plainObjs uid="QUelLTYSojgGRC" />
+<ns0:plainObjs uid="QYdlLTYSojgGRC" />
+<ns0:plainObjs uid="QYUlLTYSojgGRC" />
+<ns0:plainObjs uid="1RkFBzYPojgGRC" />
+<ns0:plainObjs uid="QUVlLTYSojgGRC" />
+<ns0:plainObjs uid="QQclLTYSojgGRC" />
+<ns0:plainObjs uid="QMXlLTYSojgGRC" />
+<ns0:plainObjs uid="R2kBE8bjojgGRC" />
+<ns0:plainObjs uid="e_X9e_CqojgGRC" />
+<ns0:plainObjs uid="uCW9e_CqojgGRC" />
+<ns0:plainObjs uid="BXQ9plSSojgGRC" />
+<ns0:plainObjs uid="V8gFiRo_ojgGRC" />
+<ns0:plainObjs uid="uKR9e_CqojgGRC" />
+<ns0:plainObjs uid="uGV9e_CqojgGRC" />
+<ns0:plainObjs uid="yyd9IWsfojgGRC" />
+<ns0:plainObjs uid="CRW9YmBqojgGRC" />
+<ns0:plainObjs uid="y4hFzNQgojgGRC" />
+<ns0:plainObjs uid="SjvFzNgxojgGRC" />
+<ns0:plainObjs uid="GnnF0AntojgGRC" />
+<ns0:plainObjs uid="Y$kFofeNojgGRC" />
+<ns0:plainObjs uid="x6mBrCb8ojgGRC" />
+<ns0:plainObjs uid="oQgBxxo7ojgGRC" />
+<ns0:plainObjs uid="SsuFXGqQojgGRC" />
+<ns0:plainObjs uid="vahBlQ71ojgGRC" />
+<ns0:plainObjs uid="1_tBMXzaojgGRC" />
+<ns0:plainObjs uid="CEgBDz38ojgGRC" />
+<ns0:plainObjs uid="QIsBsM_CojgGRC" />
+<ns0:plainObjs uid="i2qFUq7DojgGRC" />
+<ns0:plainObjs uid="EmiFpRvRojgGRC" />
+<ns0:plainObjs uid="SmnF5eEYojgGRC" />
+<ns0:plainObjs uid="Rhc5TL68ojgGRC" />
+<ns0:plainObjs uid="xvb9Qv5KojgGRC" />
+<ns0:plainObjs uid="ickBJBM6ojgGRC" />
+<ns0:plainObjs uid="E5e9YeyKojgGRC" />
+<ns0:plainObjs uid="SrjB6oIiojgGRC" />
+<ns0:plainObjs uid="h7b9IGQSojgGRC" />
+<ns0:plainObjs uid="CgS9VC5QojgGRC" />
+<ns0:plainObjs uid="zEvBJ$34ojgGRC" />
+<ns0:plainObjs uid="zElBJ$34ojgGRC" />
+<ns0:plainObjs uid="LguFx0fjojgGRC" />
+<ns0:plainObjs uid="w5nBikMYojgGRC" />
+<ns0:dataObjects objectID="1RkFBzYPojgGRC" uid="1RkFBzYPojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Test">
+<ns0:values value="Test" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Test">
+<ns0:values value="Test" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="18-Aug-2021 10:45">
+<ns0:values value="2021-08-18T10:45:47+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Форпост-Р">
+<ns0:values value="Для конфигурации состава Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="1_tBMXzaojgGRC" uid="1_tBMXzaojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800 (Разработка и рабочая) (51001)">
+<ns0:values value="УТС-800 (Разработка и рабочая) (51001)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="УТС-800 (Разработка и рабочая) (51001)">
+<ns0:values value="УТС-800 (Разработка и рабочая) (51001)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="18-Nov-2021 12:31">
+<ns0:values value="2021-11-18T12:31:55+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава УТС-800 на этапе разработки">
+<ns0:values value="Для конфигурации состава УТС-800 на этапе разработки" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Майфетов Сергей Анатольевич (smay)">
+<ns0:values value="QPRp4ITwojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="BXQ9plSSojgGRC" uid="BXQ9plSSojgGRC" className="SPD5_EndItem" type="SPD5_EndItem">
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="is_vi" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="has_variant_module" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="26-Oct-2020 09:38">
+<ns0:values value="2020-10-26T09:38:29+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="End Item">
+<ns0:values value="SPD5_EndItem" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties>
+<ns0:properties modifiable="0" name="is_configuration_item" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_string" uiValue="Комплекс Альтиус-РУ-4790">
+<ns0:values value="Комплекс Альтиус-РУ-4790" /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="BqQ5$IguojgGRC" uid="BqQ5$IguojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="DA-42">
+<ns0:values value="DA-42" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="DA-42">
+<ns0:values value="DA-42" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="07-Oct-2020 17:55">
+<ns0:values value="2020-10-07T17:55:18+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Рахматуллин Артур Мидхатович (arah)">
+<ns0:values value="w2Zppt_OojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="CEgBDz38ojgGRC" uid="CEgBDz38ojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800 (Разработка)">
+<ns0:values value="УТС-800 (Разработка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="УТС-800 (Разработка)">
+<ns0:values value="УТС-800 (Разработка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:13">
+<ns0:values value="2021-08-16T16:13:28+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава УТС-800 на этапе разработки">
+<ns0:values value="Для конфигурации состава УТС-800 на этапе разработки" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Комов Константин Олегович (komovko)">
+<ns0:values value="R_T9JEwFojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="CRW9YmBqojgGRC" uid="CRW9YmBqojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Б-3">
+<ns0:values value="Б-3" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Б-3">
+<ns0:values value="Б-3" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Oct-2020 12:50">
+<ns0:values value="2020-10-16T12:50:34+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Баллистика-3">
+<ns0:values value="Баллистика-3" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Майфетов Сергей Анатольевич (smay)">
+<ns0:values value="QPRp4ITwojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="CgS9VC5QojgGRC" uid="CgS9VC5QojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Форпост-Р (Утверждено)">
+<ns0:values value="Форпост-Р (Утверждено)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Форпост-Р (Утверждено)">
+<ns0:values value="Форпост-Р (Утверждено)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:17">
+<ns0:values value="2021-08-16T16:17:01+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЭМК Форпост-Р">
+<ns0:values value="Для конфигурации состава ЭМК Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Рахматуллин Артур Мидхатович (arah)">
+<ns0:values value="w2Zppt_OojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="E5e9YeyKojgGRC" uid="E5e9YeyKojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Форпост-Р (Проверка)">
+<ns0:values value="Форпост-Р (Проверка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Форпост-Р (Проверка)">
+<ns0:values value="Форпост-Р (Проверка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:14">
+<ns0:values value="2021-08-16T16:14:45+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Форпост-Р">
+<ns0:values value="Для конфигурации состава Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="EmiFpRvRojgGRC" uid="EmiFpRvRojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800 Диана (Утверждено, разработка и рабочая)">
+<ns0:values value="УТС-800 Диана (Утверждено, разработка и рабочая)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="УТС-800 Диана (Утверждено, разработка и рабочая)">
+<ns0:values value="УТС-800 Диана (Утверждено, разработка и рабочая)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="18-Nov-2021 15:38">
+<ns0:values value="2021-11-18T15:38:01+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава УТС-800 для перечней">
+<ns0:values value="Для конфигурации состава УТС-800 для перечней" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Фрейз Диана Равилевна (freizdr)">
+<ns0:values value="hnX9kThVojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="GnnF0AntojgGRC" uid="GnnF0AntojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="ЛМС Байкал (Разработка Серийный №)">
+<ns0:values value="ЛМС Байкал (Разработка Серийный №)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="ЛМС Байкал (Разработка Серийный №)">
+<ns0:values value="ЛМС Байкал (Разработка Серийный №)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Sep-2021 10:37">
+<ns0:values value="2021-09-16T10:37:35+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЛМС на этапе разработки">
+<ns0:values value="Для конфигурации состава ЛМС на этапе разработки" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чуфарин Денис Андреевич (chufarinda)">
+<ns0:values value="ASU5VN6ZojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="HSnBGhFeojgGRC" uid="HSnBGhFeojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="LMS without STI">
+<ns0:values value="LMS without STI" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="LMS without STI">
+<ns0:values value="LMS without STI" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="31-Mar-2021 17:09">
+<ns0:values value="2021-03-31T17:09:28+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Latest Working else Latest Any Status">
+<ns0:values value="Latest Working else Latest Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Рахматуллин Артур Мидхатович (arah)">
+<ns0:values value="w2Zppt_OojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="LguFx0fjojgGRC" uid="LguFx0fjojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="ЭМК Альтиус-РУ (для проверки) (Изменено)">
+<ns0:values value="ЭМК Альтиус-РУ (для проверки) (Изменено)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="ЭМК Альтиус-РУ (для проверки) (Изменено)">
+<ns0:values value="ЭМК Альтиус-РУ (для проверки) (Изменено)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="11-Aug-2021 14:49">
+<ns0:values value="2021-08-11T14:49:42+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЭМК Альтиус-РУ">
+<ns0:values value="Для конфигурации состава ЭМК Альтиус-РУ" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QEclLTYSojgGRC" uid="QEclLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Latest Working">
+<ns0:values value="Latest Working" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Latest Working">
+<ns0:values value="Latest Working" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Latest Working else Latest Any Status">
+<ns0:values value="Latest Working else Latest Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QIYlLTYSojgGRC" uid="QIYlLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Any Status; No Working">
+<ns0:values value="Any Status; No Working" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Any Status; No Working">
+<ns0:values value="Any Status; No Working" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QIelLTYSojgGRC" uid="QIelLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Any Status; Working">
+<ns0:values value="Any Status; Working" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Any Status; Working">
+<ns0:values value="Any Status; Working" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QIsBsM_CojgGRC" uid="QIsBsM_CojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800 (Разработки и Рабочая)">
+<ns0:values value="УТС-800 (Разработки и Рабочая)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="УТС-800 (Разработки и Рабочая)">
+<ns0:values value="УТС-800 (Разработки и Рабочая)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="20-Sep-2021 11:55">
+<ns0:values value="2021-09-20T11:55:10+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава УТС-800 на этапе разработки">
+<ns0:values value="Для конфигурации состава УТС-800 на этапе разработки" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Рахматуллин Артур Мидхатович (arah)">
+<ns0:values value="w2Zppt_OojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QMXlLTYSojgGRC" uid="QMXlLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Working; Any Status">
+<ns0:values value="Working; Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Working; Any Status">
+<ns0:values value="Working; Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QQQlLTYSojgGRC" uid="QQQlLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Latest by Creation Date">
+<ns0:values value="Latest by Creation Date" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Latest by Creation Date">
+<ns0:values value="Latest by Creation Date" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QQWlLTYSojgGRC" uid="QQWlLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Latest by Alpha Revision Order">
+<ns0:values value="Latest by Alpha Revision Order" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Latest by Alpha Revision Order">
+<ns0:values value="Latest by Alpha Revision Order" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QQclLTYSojgGRC" uid="QQclLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Working(Current User); Any Status">
+<ns0:values value="Working(Current User); Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Working(Current User); Any Status">
+<ns0:values value="Working(Current User); Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QUVlLTYSojgGRC" uid="QUVlLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Working(Current Group); Any Status">
+<ns0:values value="Working(Current Group); Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Working(Current Group); Any Status">
+<ns0:values value="Working(Current Group); Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QUelLTYSojgGRC" uid="QUelLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Precise Only">
+<ns0:values value="Precise Only" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Precise Only">
+<ns0:values value="Precise Only" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QYUlLTYSojgGRC" uid="QYUlLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Precise; Working">
+<ns0:values value="Precise; Working" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Precise; Working">
+<ns0:values value="Precise; Working" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="QYdlLTYSojgGRC" uid="QYdlLTYSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Precise; Any Status">
+<ns0:values value="Precise; Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Precise; Any Status">
+<ns0:values value="Precise; Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Sep-2017 19:39">
+<ns0:values value="2017-09-15T19:39:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="R2kBE8bjojgGRC" uid="R2kBE8bjojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="testDiana">
+<ns0:values value="testDiana" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="testDiana">
+<ns0:values value="testDiana" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="04-Mar-2021 15:52">
+<ns0:values value="2021-03-04T15:52:11+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЭМК Форпост-Р">
+<ns0:values value="Для конфигурации состава ЭМК Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="Rhc5TL68ojgGRC" uid="Rhc5TL68ojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Форпост-Р">
+<ns0:values value="Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Форпост-Р">
+<ns0:values value="Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:13">
+<ns0:values value="2021-08-16T16:13:59+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЭМК Форпост-Р">
+<ns0:values value="Для конфигурации состава ЭМК Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Рахматуллин Артур Мидхатович (arah)">
+<ns0:values value="w2Zppt_OojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="RwjBM8ZqojgGRC" uid="RwjBM8ZqojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Latest Working тест">
+<ns0:values value="Latest Working тест" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Latest Working тест">
+<ns0:values value="Latest Working тест" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="09-Jun-2021 17:45">
+<ns0:values value="2021-06-09T17:45:15+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Latest Working else Latest Any Status">
+<ns0:values value="Latest Working else Latest Any Status" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Некрасов Алексей Иванович (nekrasovai)">
+<ns0:values value="VZuBSEvxojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="S$vFjFb3ojgGRC" uid="S$vFjFb3ojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="117-02-Согласование агрегата">
+<ns0:values value="117-02-Согласование агрегата" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="117-02-Согласование агрегата">
+<ns0:values value="117-02-Согласование агрегата" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="06-Sep-2021 16:00">
+<ns0:values value="2021-09-06T16:00:58+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЭМК Поплавок-Д">
+<ns0:values value="Для конфигурации состава ЭМК Поплавок-Д" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="SjvFzNgxojgGRC" uid="SjvFzNgxojgGRC" className="SPD5_EndItem" type="SPD5_EndItem">
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="is_vi" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чуфарин Денис Андреевич (chufarinda)">
+<ns0:values value="ASU5VN6ZojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="has_variant_module" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="07-Sep-2021 12:15">
+<ns0:values value="2021-09-07T12:15:32+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="End Item">
+<ns0:values value="SPD5_EndItem" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties>
+<ns0:properties modifiable="0" name="is_configuration_item" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_string" uiValue="ЛМС-901">
+<ns0:values value="ЛМС-901" /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="SmnF5eEYojgGRC" uid="SmnF5eEYojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800 Диана 2 (Разработка и рабочая) (51001)">
+<ns0:values value="УТС-800 Диана 2 (Разработка и рабочая) (51001)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="УТС-800 Диана 2 (Разработка и рабочая) (51001)">
+<ns0:values value="УТС-800 Диана 2 (Разработка и рабочая) (51001)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="22-Nov-2021 11:21">
+<ns0:values value="2021-11-22T11:21:29+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава УТС-800 на этапе разработки">
+<ns0:values value="Для конфигурации состава УТС-800 на этапе разработки" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Фрейз Диана Равилевна (freizdr)">
+<ns0:values value="hnX9kThVojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="SrjB6oIiojgGRC" uid="SrjB6oIiojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Форпост-Р (Разработка)">
+<ns0:values value="Форпост-Р (Разработка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Форпост-Р (Разработка)">
+<ns0:values value="Форпост-Р (Разработка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:14">
+<ns0:values value="2021-08-16T16:14:23+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Форпост-Р">
+<ns0:values value="Для конфигурации состава Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="SsuFXGqQojgGRC" uid="SsuFXGqQojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800 (Проверка и Серия)">
+<ns0:values value="УТС-800 (Проверка и Серия)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="УТС-800 (Проверка и Серия)">
+<ns0:values value="УТС-800 (Проверка и Серия)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="27-Oct-2021 09:46">
+<ns0:values value="2021-10-27T09:46:05+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава УТС-800">
+<ns0:values value="Для конфигурации состава УТС-800" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Майфетов Сергей Анатольевич (smay)">
+<ns0:values value="QPRp4ITwojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="V8gFiRo_ojgGRC" uid="V8gFiRo_ojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Альтиус-РУ (Разработки и Рабочая)">
+<ns0:values value="Альтиус-РУ (Разработки и Рабочая)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Альтиус-РУ (Разработки и Рабочая)">
+<ns0:values value="Альтиус-РУ (Разработки и Рабочая)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="25-Aug-2021 15:07">
+<ns0:values value="2021-08-25T15:07:20+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Альтиус">
+<ns0:values value="Альтиус" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Майфетов Сергей Анатольевич (smay)">
+<ns0:values value="QPRp4ITwojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="Y$kFofeNojgGRC" uid="Y$kFofeNojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="ЛМС Байкал (Разработка Серийный №1)">
+<ns0:values value="ЛМС Байкал (Разработка Серийный №1)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="ЛМС Байкал (Разработка Серийный №1)">
+<ns0:values value="ЛМС Байкал (Разработка Серийный №1)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="12-Nov-2021 15:04">
+<ns0:values value="2021-11-12T15:04:54+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЛМС на этапе разработки">
+<ns0:values value="Для конфигурации состава ЛМС на этапе разработки" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чуфарин Денис Андреевич (chufarinda)">
+<ns0:values value="ASU5VN6ZojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="e_X9e_CqojgGRC" uid="e_X9e_CqojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Альтиус-РУ">
+<ns0:values value="Альтиус-РУ" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Альтиус-РУ">
+<ns0:values value="Альтиус-РУ" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:10">
+<ns0:values value="2021-08-16T16:10:08+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Альтиус-РУ">
+<ns0:values value="Для конфигурации состава Альтиус-РУ" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="h7b9IGQSojgGRC" uid="h7b9IGQSojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Форпост-Р (Утверждено и Серия)">
+<ns0:values value="Форпост-Р (Утверждено и Серия)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Форпост-Р (Утверждено и Серия)">
+<ns0:values value="Форпост-Р (Утверждено и Серия)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:17">
+<ns0:values value="2021-08-16T16:17:33+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Форпост-Р">
+<ns0:values value="Для конфигурации состава Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Рахматуллин Артур Мидхатович (arah)">
+<ns0:values value="w2Zppt_OojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="i2qFUq7DojgGRC" uid="i2qFUq7DojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800 (Утверждено и Серия)">
+<ns0:values value="УТС-800 (Утверждено и Серия)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="УТС-800 (Утверждено и Серия)">
+<ns0:values value="УТС-800 (Утверждено и Серия)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="21-Sep-2021 13:33">
+<ns0:values value="2021-09-21T13:33:47+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава УТС-800">
+<ns0:values value="Для конфигурации состава УТС-800" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Майфетов Сергей Анатольевич (smay)">
+<ns0:values value="QPRp4ITwojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="ickBJBM6ojgGRC" uid="ickBJBM6ojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Форпост-Р (Проверка и Серия)">
+<ns0:values value="Форпост-Р (Проверка и Серия)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Форпост-Р (Проверка и Серия)">
+<ns0:values value="Форпост-Р (Проверка и Серия)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:15">
+<ns0:values value="2021-08-16T16:15:50+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Форпост-Р">
+<ns0:values value="Для конфигурации состава Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="oQgBxxo7ojgGRC" uid="oQgBxxo7ojgGRC" className="SPD5_EndItem" type="SPD5_EndItem">
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="is_vi" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Майфетов Сергей Анатольевич (smay)">
+<ns0:values value="QPRp4ITwojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="has_variant_module" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="01-Feb-2021 15:17">
+<ns0:values value="2021-02-01T15:17:38+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="End Item">
+<ns0:values value="SPD5_EndItem" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties>
+<ns0:properties modifiable="0" name="is_configuration_item" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800">
+<ns0:values value="УТС-800" /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="ryhBdqRCojgGRC" uid="ryhBdqRCojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="BAZIS">
+<ns0:values value="BAZIS" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="BAZIS">
+<ns0:values value="BAZIS" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="28-Jun-2021 10:48">
+<ns0:values value="2021-06-28T10:48:57+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЭМК Форпост-Р">
+<ns0:values value="Для конфигурации состава ЭМК Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Некрасов Алексей Иванович (nekrasovai)">
+<ns0:values value="VZuBSEvxojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="uCW9e_CqojgGRC" uid="uCW9e_CqojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Альтиус-РУ (Проверка)">
+<ns0:values value="Альтиус-РУ (Проверка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Альтиус-РУ (Проверка)">
+<ns0:values value="Альтиус-РУ (Проверка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:20">
+<ns0:values value="2021-08-16T16:20:19+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Альтиус-РУ">
+<ns0:values value="Для конфигурации состава Альтиус-РУ" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="uGV9e_CqojgGRC" uid="uGV9e_CqojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Альтиус-РУ (Утверждено)">
+<ns0:values value="Альтиус-РУ (Утверждено)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Альтиус-РУ (Утверждено)">
+<ns0:values value="Альтиус-РУ (Утверждено)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:11">
+<ns0:values value="2021-08-16T16:11:02+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Альтиус-РУ">
+<ns0:values value="Для конфигурации состава Альтиус-РУ" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="uKR9e_CqojgGRC" uid="uKR9e_CqojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Альтиус-РУ (Утверждено Серийный номер)">
+<ns0:values value="Альтиус-РУ (Утверждено Серийный номер)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Альтиус-РУ (Утверждено Серийный номер)">
+<ns0:values value="Альтиус-РУ (Утверждено Серийный номер)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:11">
+<ns0:values value="2021-08-16T16:11:33+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Альтиус-РУ">
+<ns0:values value="Для конфигурации состава Альтиус-РУ" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="vahBlQ71ojgGRC" uid="vahBlQ71ojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800 (Проверка)">
+<ns0:values value="УТС-800 (Проверка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="УТС-800 (Проверка)">
+<ns0:values value="УТС-800 (Проверка)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:12">
+<ns0:values value="2021-08-16T16:12:01+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЭМК УТС-800">
+<ns0:values value="Для конфигурации состава ЭМК УТС-800" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Комов Константин Олегович (komovko)">
+<ns0:values value="R_T9JEwFojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="w5nBikMYojgGRC" uid="w5nBikMYojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="тест">
+<ns0:values value="тест" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="тест">
+<ns0:values value="тест" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="09-Feb-2021 14:42">
+<ns0:values value="2021-02-09T14:42:06+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЭМК Форпост-Р">
+<ns0:values value="Для конфигурации состава ЭМК Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Чернушич Иван Андреевич (chernia)">
+<ns0:values value="CRS59X30ojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="wCpFGt1lojgGRC" uid="wCpFGt1lojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Latest Working2">
+<ns0:values value="Latest Working2" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Latest Working2">
+<ns0:values value="Latest Working2" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="11-Oct-2021 22:06">
+<ns0:values value="2021-10-11T22:06:54+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="wbQt2KzwojgGRC" uid="wbQt2KzwojgGRC" className="SPD5_EndItem" type="SPD5_EndItem">
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="is_vi" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="has_variant_module" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="26-Jun-2019 13:52">
+<ns0:values value="2019-06-26T13:52:51+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="End Item">
+<ns0:values value="SPD5_EndItem" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties>
+<ns0:properties modifiable="0" name="is_configuration_item" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_string" uiValue="ДА-42Т-Самолет">
+<ns0:values value="ДА-42Т-Самолет" /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="x6mBrCb8ojgGRC" uid="x6mBrCb8ojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="УТС-800 (Заявки на закупку)">
+<ns0:values value="УТС-800 (Заявки на закупку)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="УТС-800 (Заявки на закупку)">
+<ns0:values value="УТС-800 (Заявки на закупку)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:13">
+<ns0:values value="2021-08-16T16:13:48+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации заявок на закупку ДСЕ УТС-800">
+<ns0:values value="Для конфигурации заявок на закупку ДСЕ УТС-800" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Комов Константин Олегович (komovko)">
+<ns0:values value="R_T9JEwFojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="xvb9Qv5KojgGRC" uid="xvb9Qv5KojgGRC" className="SPD5_EndItem" type="SPD5_EndItem">
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="is_vi" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="infodba (infodba)">
+<ns0:values value="AgZlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="has_variant_module" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="14-Jul-2020 14:19">
+<ns0:values value="2020-07-14T14:19:09+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="End Item">
+<ns0:values value="SPD5_EndItem" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties>
+<ns0:properties modifiable="0" name="is_configuration_item" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_string" uiValue="БЛА Форпост-Р">
+<ns0:values value="БЛА Форпост-Р" /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="y4hFzNQgojgGRC" uid="y4hFzNQgojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="ЛМС Байкал (Базис)">
+<ns0:values value="ЛМС Байкал (Базис)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="ЛМС Байкал (Базис)">
+<ns0:values value="ЛМС Байкал (Базис)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="07-Sep-2021 12:52">
+<ns0:values value="2021-09-07T12:52:22+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава ЛМС Байкал">
+<ns0:values value="Для конфигурации состава ЛМС Байкал" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Комов Константин Олегович (komovko)">
+<ns0:values value="R_T9JEwFojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="yprFpTMWojgGRC" uid="yprFpTMWojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Any Status; Working (Изменено)">
+<ns0:values value="Any Status; Working (Изменено)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Any Status; Working (Изменено)">
+<ns0:values value="Any Status; Working (Изменено)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="24-Nov-2021 16:31">
+<ns0:values value="2021-11-24T16:31:35+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Комов Константин Олегович (komovko)">
+<ns0:values value="R_T9JEwFojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="yyd9IWsfojgGRC" uid="yyd9IWsfojgGRC" className="SPD5_EndItem" type="SPD5_EndItem">
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="is_vi" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Рахматуллин Артур Мидхатович (arah)">
+<ns0:values value="w2Zppt_OojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="has_variant_module" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="15-Oct-2020 17:27">
+<ns0:values value="2020-10-15T17:27:01+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="End Item">
+<ns0:values value="SPD5_EndItem" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties>
+<ns0:properties modifiable="0" name="is_configuration_item" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_string" uiValue="Баллистика-3">
+<ns0:values value="Баллистика-3" /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="zElBJ$34ojgGRC" uid="zElBJ$34ojgGRC" className="RevisionRule" type="RevisionRule">
+<ns0:properties modifiable="0" name="object_string" uiValue="Форпост-Р (с полезной нагрузкой)">
+<ns0:values value="Форпост-Р (с полезной нагрузкой)" /></ns0:properties>
+<ns0:properties modifiable="0" name="revision_number" uiValue=" ">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_site" uiValue="">
+<ns0:values isNull="1" value="" /></ns0:properties>
+<ns0:properties modifiable="0" name="process_stage_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_name" uiValue="Форпост-Р (с полезной нагрузкой)">
+<ns0:values value="Форпост-Р (с полезной нагрузкой)" /></ns0:properties>
+<ns0:properties modifiable="0" name="last_mod_date" uiValue="16-Aug-2021 16:16">
+<ns0:values value="2021-08-16T16:16:14+03:00" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_group" uiValue="dba">
+<ns0:values value="AYdlLTYSojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="user_visible" uiValue="True">
+<ns0:values value="1" /></ns0:properties>
+<ns0:properties modifiable="0" name="object_type" uiValue="Revision Rule">
+<ns0:values value="RevisionRule" /></ns0:properties>
+<ns0:properties modifiable="0" name="release_status_list" uiValue=""></ns0:properties>
+<ns0:properties modifiable="0" name="object_desc" uiValue="Для конфигурации состава Форпост-Р">
+<ns0:values value="Для конфигурации состава Форпост-Р" /></ns0:properties>
+<ns0:properties modifiable="0" name="owning_user" uiValue="Комов Константин Олегович (komovko)">
+<ns0:values value="R_T9JEwFojgGRC" /></ns0:properties>
+<ns0:properties modifiable="0" name="suppressed" uiValue="False">
+<ns0:values value="0" /></ns0:properties>
+<ns0:properties modifiable="0" name="checked_out" uiValue=" ">
+<ns0:values value=" " /></ns0:properties></ns0:dataObjects>
+<ns0:dataObjects objectID="zEvBJ$34ojgGRC" uid="zEvBJ$34ojgGRC" className="CFMOverrideEntry" type="CFMOverrideEntry"></ns0:dataObjects>
+<ns0:dataObjects objectID="ASU5VN6ZojgGRC" uid="ASU5VN6ZojgGRC" className="User" type="User"></ns0:dataObjects>
+<ns0:dataObjects objectID="AYdlLTYSojgGRC" uid="AYdlLTYSojgGRC" className="Group" type="Group"></ns0:dataObjects>
+<ns0:dataObjects objectID="AgZlLTYSojgGRC" uid="AgZlLTYSojgGRC" className="User" type="User"></ns0:dataObjects>
+<ns0:dataObjects objectID="CRS59X30ojgGRC" uid="CRS59X30ojgGRC" className="User" type="User"></ns0:dataObjects>
+<ns0:dataObjects objectID="QPRp4ITwojgGRC" uid="QPRp4ITwojgGRC" className="User" type="User"></ns0:dataObjects>
+<ns0:dataObjects objectID="R_T9JEwFojgGRC" uid="R_T9JEwFojgGRC" className="User" type="User"></ns0:dataObjects>
+<ns0:dataObjects objectID="VZuBSEvxojgGRC" uid="VZuBSEvxojgGRC" className="User" type="User"></ns0:dataObjects>
+<ns0:dataObjects objectID="hnX9kThVojgGRC" uid="hnX9kThVojgGRC" className="User" type="User"></ns0:dataObjects>
+<ns0:dataObjects objectID="w2Zppt_OojgGRC" uid="w2Zppt_OojgGRC" className="User" type="User"></ns0:dataObjects></ns0:ServiceData></ns1:GetRevisionRulesResponse></x:Body></x:Envelope>
