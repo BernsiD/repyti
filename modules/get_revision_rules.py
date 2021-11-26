@@ -30,11 +30,36 @@ def get_revision_rules(session_token, serveradress):
                  str(response.status_code))
 
 
-def execute():
+def execute_as_xml():
     tc_session = TC_Session(Secret.TC_LOGIN, Secret.TC_PASSWORD)
     tc_session.login()
     resp = get_revision_rules(tc_session.session_token, tc_session.serveradress)
     tc_session.logout()
+    return resp
+
+
+def execute_as_obj():
+    tc_session = TC_Session(Secret.TC_LOGIN, Secret.TC_PASSWORD)
+    tc_session.login()
+    response = get_revision_rules(tc_session.session_token, tc_session.serveradress)
+    tc_session.logout()
+
+    root = ET.fromstring(response.content)
+    for objectproperties in root.iter('{http://teamcenter.com/Schemas/Soa/2006-03/Base}properties'):
+        print("TAG " + str(objectproperties.tag),
+              "ATTR" + str(objectproperties.attrib))
+        prop_key = None
+        prop_value = None
+        for item in objectproperties.attrib.items():
+            if "name" in item:
+                prop_key = item[1]
+            elif "uiValue" in item:
+                prop_value = item[1]
+                prop_dict[prop_key] = prop_value
+            else:
+                pass
+
+
     return resp
 
 
