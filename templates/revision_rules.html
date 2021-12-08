@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<header><h1>Revision Rules Information</h1></header>
+<section>
+    {% for dic in rule_dics %}
+            <div class="list-group">
+                {% for key, value in dic.items() %}
+                    <div class="list-group-item">
+                        <p>
+                            <span style="font-weight: bold;">{{key}}</span>: {{value}}
+                        </p>
+                    </div>
+                {% endfor %}
+            </div>
+            <hr />
+    {% endfor %}
+</section>
+
+{% endblock %}

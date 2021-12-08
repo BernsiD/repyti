@@ -44,23 +44,17 @@ def execute_as_obj():
     response = get_revision_rules(tc_session.session_token, tc_session.serveradress)
     tc_session.logout()
 
-    root = ET.fromstring(response.content)
-    for objectproperties in root.iter('{http://teamcenter.com/Schemas/Soa/2006-03/Base}properties'):
-        print("TAG " + str(objectproperties.tag),
-              "ATTR" + str(objectproperties.attrib))
-        prop_key = None
-        prop_value = None
-        for item in objectproperties.attrib.items():
-            if "name" in item:
-                prop_key = item[1]
-            elif "uiValue" in item:
-                prop_value = item[1]
-                prop_dict[prop_key] = prop_value
-            else:
-                pass
-
-
-    return resp
+    root = ET.fromstring(response)
+    dic_collection = []
+    for dataObj in root.iter('{http://teamcenter.com/Schemas/Soa/2006-03/Base}dataObjects'):
+        child_dic = {
+            'uid': dataObj.attrib['uid'],
+            'objectID': dataObj.attrib['objectID'],
+        }
+        for child in dataObj:
+            child_dic[child.attrib['name']] = child.attrib['uiValue']
+        dic_collection.append(child_dic)
+    return dic_collection
 
 
 if __name__ == "__main__":
