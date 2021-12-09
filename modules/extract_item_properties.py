@@ -95,7 +95,42 @@ def get_properties(session_token, revision_uid, serveradress):
       </dat:GetPropertiesInput>
    </soapenv:Body>
 </soapenv:Envelope>"""
+
+
+
+# '''<x:Envelope
+#     xmlns:x="http://schemas.xmlsoap.org/soap/envelope/"
+#     xmlns:dat="http://teamcenter.com/Schemas/Core/2006-03/DataManagement"
+#     xmlns:bas="http://teamcenter.com/Schemas/Soa/2006-03/Base">
+#     <x:Header/>
+#     <x:Body>
+#         <dat:GetPropertiesInput>
+#             <dat:objects uid="?" type="?" classUid="?" className="?" updateDesc="?" objectID="?" cParamID="?" isHistorical="?" isObsolete="?" jbt_addition="?">
+#                 <bas:properties name="?" uiValue="?" modifiable="?">
+#                     <bas:values value="?" isNull="?"></bas:values>
+#                     <bas:uiValues>?</bas:uiValues>
+#                 </bas:properties>
+#                 <bas:uiproperties name="?">
+#                     <bas:uiValues>?</bas:uiValues>
+#                 </bas:uiproperties>
+#                 <bas:props name="?">
+#                     <bas:value modifiable="?">
+#                         <bas:dbValues>?</bas:dbValues>
+#                         <bas:uiValues>?</bas:uiValues>
+#                         <bas:isNulls>false</bas:isNulls>
+#                     </bas:value>
+#                 </bas:props>
+#             </dat:objects>
+#             <dat:attributes>?</dat:attributes>
+#         </dat:GetPropertiesInput>
+#     </x:Body>
+# </x:Envelope>'''
+
+
+
+
     prop_dict = {}
+    prop_dict['Revision UID'] = revision_uid
     response = requests.post(url, data=body, headers=headers, verify=False)
 
     root = ET.fromstring(response.content)
