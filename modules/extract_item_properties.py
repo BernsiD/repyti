@@ -58,6 +58,9 @@ def get_item_from_id(session_token, item_id, revision_no, serveradress):
     response = requests.post(url, data=body, headers=headers, verify=False)
     root = ET.fromstring(response.content)
 
+
+    print(response.content)
+
     revision_uid = []
 
     for objectproperties in root.iter('{http://teamcenter.com/Schemas/Soa/2006-03/Base}dataObjects'):

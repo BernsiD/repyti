@@ -5,30 +5,6 @@ import xml.etree.ElementTree as ET
 from common.tc_session import TC_Session
 from secret import Secret
 
-# set the policy to male ps_extract work
-
-
-def set_policy(session_token, serveradress):
-    url = f"{serveradress}/tc/services/Core-2007-01-Session?wsdl"
-    headers = {'Content-Type': 'text/xml',
-               'SOAPAction': 'setObjectPropertyPolicy', 'Cookie': session_token}
-    body = """<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ses="http://teamcenter.com/Schemas/Core/2007-01/Session">
-   <soapenv:Header/>
-   <soapenv:Body>
-      <ses:SetObjectPropertyPolicyInput policyName="DEFAULT"/>
-   </soapenv:Body>
-</soapenv:Envelope>"""
-    response = requests.post(url, data=body, headers=headers, verify=False)
-
-    if response.status_code == 200:
-        print('Command set_policy successful.')
-        print(response.content)
-    else:
-        print('Command set_policy failed.')
-        sys.exit('Command operation failed with HTTP Code ' +
-                 str(response.status_code))
-
-
 
 def get_revision_rules(session_token, serveradress):
     url = f"{serveradress}/tc/services/Cad-2007-01-StructureManagement?wsdl"
@@ -54,19 +30,31 @@ def get_revision_rules(session_token, serveradress):
                  str(response.status_code))
 
 
-
-
-
-def test_request():
-    tc_session = TC_Session(Secret.TC_LOGIN, Secret.TC_PASSWORD)  #Enter username password here
+def execute_as_xml():
+    tc_session = TC_Session(Secret.TC_LOGIN, Secret.TC_PASSWORD)
     tc_session.login()
-    set_policy(tc_session.session_token, tc_session.serveradress)
-
     resp = get_revision_rules(tc_session.session_token, tc_session.serveradress)
-
     tc_session.logout()
- 
     return resp
+
+
+def execute_as_obj():
+    tc_session = TC_Session(Secret.TC_LOGIN, Secret.TC_PASSWORD)
+    tc_session.login()
+    response = get_revision_rules(tc_session.session_token, tc_session.serveradress)
+    tc_session.logout()
+
+    root = ET.fromstring(response)
+    dic_collection = []
+    for dataObj in root.iter('{http://teamcenter.com/Schemas/Soa/2006-03/Base}dataObjects'):
+        child_dic = {
+            'uid': dataObj.attrib['uid'],
+            'objectID': dataObj.attrib['objectID'],
+        }
+        for child in dataObj:
+            child_dic[child.attrib['name']] = child.attrib['uiValue']
+        dic_collection.append(child_dic)
+    return dic_collection
 
 
 if __name__ == "__main__":
