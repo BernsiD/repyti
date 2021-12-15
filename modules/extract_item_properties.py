@@ -29,22 +29,24 @@ def extract_item_properties(item_id, rev_id):
 
     # get classification uid
     response_findClassificationObjects = soa_request.find_classification_objects(revision_uid)
+    classification_uid = None
+    class_dict =  {}
     try:
         classification_uid = response_findClassificationObjects['icos'][0]['value'][0]['uid']
         print("Das ist die UID der Classification:", classification_uid)
     except Exception as e:
         print('Failed to get Classificaton UID:', e)
-        return {}
+        
 
     # get classification object info
-    response_getClassificationObjectInfo = soa_request.get_classification_object_info(classification_uid)
-    class_dict = {}
-    for attr in response_getClassificationObjectInfo['classificationObjectInfo'][0]['value']['attrValuesMap']:
-        try:
-            # check or chooce other peace of information you need to extract
-            class_dict[attr['key']] = attr['value']['values'][0]['attrValue']
-        except:
-            pass
+    if classification_uid:
+        response_getClassificationObjectInfo = soa_request.get_classification_object_info(classification_uid)
+        for attr in response_getClassificationObjectInfo['classificationObjectInfo'][0]['value']['attrValuesMap']:
+            try:
+                # check or chooce other peace of information you need to extract
+                class_dict[attr['key']] = attr['value']['values'][0]['attrValue']
+            except:
+                pass
 
     # collect all data
     mapping_dict = {**prop_dict, **class_dict}
