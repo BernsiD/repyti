@@ -1,6 +1,8 @@
 from zeep import Client
 
 
+#TODO: need to check response status in all requests
+
 
 class SOA_Request:
     def __init__(self, host, transport) -> None:
@@ -29,7 +31,7 @@ class SOA_Request:
 
     def get_classification_object_info(self, classification_uid):
         client = self.__get_client('Classification-2011-12-Classification')
-        response = client.service.getClassificationObjectInfo(icoUids=classification_uid)
+        response = client.service.getClassificationObjectInfo(icoUids=classification_uid, getOptimizedValues=1, fetchDescriptor=1, locale=1)
         return response
 
     def get_revision_rules(self):
