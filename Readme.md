@@ -4,13 +4,22 @@ RESTful Python Teamcenter Interface
 
 This is the attempt to create an OpenSource RESTful Teamcenter Interface.
 Communication to Teamcenter is done via Teamcenter Services (SOAP)
-It works with Flask at the moment.
-At this stage of development there is only one module available to allow extraction of metadata and classification properties
-of an ItemRevision or CustomItemRevision by inputting ItemID and RevisionID, since it is the most basic step to get your ItemRevision Metadata in for Example ERP Systems or other Enterprise Systems. 
+Web interface works with Flask, SOA requests made by zeep.
+
+At this stage of development there is only two module available wich allows: 
+- to extract of metadata and classification properties
+- to extract of existing revision rules
+
+There plans for next modules:
+- to extract material information of item revision
+- to extract effectivity of item revsion
 
 
 ### REQUIREMENTS:
 - Flask
+- zeep 
+- full list is in `requirements.txt` file
+
 
 ### SETUP:
 - Install Flask
