@@ -1,9 +1,5 @@
 from zeep import Client
 
-
-#TODO: need to check response status in all requests
-
-
 class SOA_Request:
     def __init__(self, host, transport) -> None:
         self.host = host
@@ -37,6 +33,14 @@ class SOA_Request:
     def get_revision_rules(self):
         client = self.__get_client('Cad-2007-01-StructureManagement')
         response = client.service.getRevisionRules()
+        return response
+
+    def expand_grm_relations_for_primary(self, revision_uid, relation_name):
+        """
+        Returns relation objects by parent revision uid and relation type name
+        """
+        client = self.__get_client('Core-2007-06-DataManagement')
+        response = client.service.expandGRMRelationsForPrimary(primaryObjects={'uid':revision_uid}, pref={'expItemRev':False, 'info':{'relationName':relation_name}}) 
         return response
 
     def __get_client(self, service_name: str):
