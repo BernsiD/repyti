@@ -23,7 +23,6 @@ def extract_item_rest():
     datadict = request.get_json()
     item_id = datadict['item_id']
     rev_id = datadict['rev_id']
-    outputlist = extract_item_properties.extract_item_properties(
-        item_id, rev_id)
+    outputlist = get_part_material.execute_as_json(item_id, rev_id)
     retJson = outputlist
     return jsonify(retJson)

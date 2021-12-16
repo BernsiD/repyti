@@ -4,7 +4,7 @@ from common.utils import get_revision_uid
 from secret import Secret
 
 
-def execute_as_json():
+def execute_as_json(item_id, revision):
     tc_session = TC_Session(Secret.TC_HOST, Secret.TC_LOGIN, Secret.TC_PASSWORD)
     tc_session.login()
     transport = tc_session.get_transport()
