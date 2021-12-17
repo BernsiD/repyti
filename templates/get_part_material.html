@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<header><h1>Related Material Information</h1></header>
+<section class="extract-item-form">
+    <form method="POST">
+        <div class="mb-3">
+            <label for="item_id">Item_ID</label>
+            <input type="text" class="form-control" id="item_id" name="item_id" placeholder="Example: 048417" />
+        </div>
+        <div class="mb-3">
+            <label for="rev_id">Revision ID</label>
+            <input type="text" class="form-control" id="rev_id" name="rev_id" placeholder="Example: 00" />
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</section>
+
+<h2>Material Info</h2>
+<section>
+    {% for dic in dics %}
+    <div class="list-group">
+        {% for key, value in dic.items() %}
+            <div class="list-group-item">
+                <p style="font-weight: bold;">{{key}}</p>
+                <p>
+                    <p>{{value}}</p>
+                </p>
+            </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</section>
+
+{% endblock %}

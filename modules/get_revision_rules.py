@@ -1,61 +1,41 @@
-import sys
-import requests
-import xml.etree.ElementTree as ET
-
 from common.tc_session import TC_Session
+from common.soa_requests import SOA_Request
 from secret import Secret
 
 
-def get_revision_rules(session_token, serveradress):
-    url = f"{serveradress}/tc/services/Cad-2007-01-StructureManagement?wsdl"
-    headers = {'Content-Type': 'text/xml',
-               'SOAPAction': 'getRevisionRules', 'Cookie': session_token}
-    body = """<x:Envelope
-    xmlns:x="http://schemas.xmlsoap.org/soap/envelope/"
-    xmlns:str="http://teamcenter.com/Schemas/Cad/2007-01/StructureManagement">
-    <x:Header/>
-    <x:Body>
-        <str:GetRevisionRulesInput></str:GetRevisionRulesInput>
-    </x:Body>
-</x:Envelope>"""
-    response = requests.post(url, data=body, headers=headers, verify=False)
-
-    if response.status_code == 200:
-        print('Request was successful.')
-        # print(response.content)
-        return response.content
-    else:
-        print('Request failed.')
-        sys.exit('Command operation failed with HTTP Code ' +
-                 str(response.status_code))
-
-
-def execute_as_xml():
-    tc_session = TC_Session(Secret.TC_LOGIN, Secret.TC_PASSWORD)
+def execute_as_json():
+    tc_session = TC_Session(Secret.TC_HOST, Secret.TC_LOGIN, Secret.TC_PASSWORD)
     tc_session.login()
-    resp = get_revision_rules(tc_session.session_token, tc_session.serveradress)
+    transport = tc_session.get_transport()
+    soa_request = SOA_Request(Secret.TC_HOST, transport)
+    response = soa_request.get_revision_rules()
     tc_session.logout()
-    return resp
+    return str(response)
 
 
 def execute_as_obj():
-    tc_session = TC_Session(Secret.TC_LOGIN, Secret.TC_PASSWORD)
+    tc_session = TC_Session(Secret.TC_HOST, Secret.TC_LOGIN, Secret.TC_PASSWORD)
     tc_session.login()
-    response = get_revision_rules(tc_session.session_token, tc_session.serveradress)
+    transport = tc_session.get_transport()
+    soa_request = SOA_Request(Secret.TC_HOST, transport)
+    response = soa_request.get_revision_rules()
     tc_session.logout()
 
-    root = ET.fromstring(response)
+    # preparing data
     dic_collection = []
-    for dataObj in root.iter('{http://teamcenter.com/Schemas/Soa/2006-03/Base}dataObjects'):
-        child_dic = {
-            'uid': dataObj.attrib['uid'],
-            'objectID': dataObj.attrib['objectID'],
-        }
-        for child in dataObj:
-            child_dic[child.attrib['name']] = child.attrib['uiValue']
-        dic_collection.append(child_dic)
+    if 'ServiceData' in response:
+        service_data = response['ServiceData']
+        if 'dataObjects' in service_data:
+            object_count = len(service_data['dataObjects'])
+            print('Revision rules found:', object_count)
+            for data_object in service_data['dataObjects']:
+                object_dic = {
+                    'uid': data_object['uid'],
+                    'objectID': data_object['objectID'],
+                }
+                if 'properties' in data_object:
+                    properties = data_object['properties']
+                    for property in properties:
+                        object_dic[property['name']] = property['uiValue']
+                dic_collection.append(object_dic)
     return dic_collection
-
-
-if __name__ == "__main__":
-    main()
