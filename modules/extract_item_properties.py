@@ -44,7 +44,13 @@ def extract_item_properties(item_id, rev_id):
         for attr in response_getClassificationObjectInfo['classificationObjectInfo'][0]['value']['attrValuesMap']:
             try:
                 # check or chooce other peace of information you need to extract
-                class_dict[attr['key']] = attr['value']['values'][0]['attrValue']
+                class_dict[attr['key']] = attr['value']['values'][0]['attrValue'] 
+            except:
+                pass
+        for attr in response_getClassificationObjectInfo['classAttributeDesc'][0]['value']['attrDescMap']:
+            try:
+                # extract the names from the key map to get classification properties names instead of id's
+                class_dict[attr['value']['name']] = class_dict.pop(attr['key'])
             except:
                 pass
 
